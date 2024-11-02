@@ -1,1 +1,1 @@
-# Go, Ruby, Kotlin Crash Course
+# Go, Ruby, Kotlin SoftServe Crash Course
